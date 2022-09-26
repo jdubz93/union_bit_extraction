@@ -82,7 +82,7 @@ int main(void)
 
     uint32_t totalSize = sizeof(pkt.packetValue); // 4 bytes
     printf("Size of struct packet = %d bytes\n", totalSize);
- // test
+ // test123
     return 0;
 }
 
